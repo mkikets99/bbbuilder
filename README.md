@@ -1,2 +1,2 @@
 # bbbuilder
-Simple bb-code modulatetd builder
+Simple bb-code modular builder
